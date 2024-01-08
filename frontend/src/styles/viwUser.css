@@ -1,0 +1,20 @@
+.bg {
+    background-color: (178, 203, 179);
+}
+
+.card{
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.text-center{ 
+    margin-top: 25px;
+    color: rgb(29, 133, 53) ;
+}
+
+.imagess {
+    height: 250px;
+    overflow: hidden;
+
+  }
